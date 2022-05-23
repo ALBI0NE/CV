@@ -25,9 +25,9 @@ h3 {
 span {
   color: grey;
 }
-.avatar {
-  width: 150px;
-  height: 150px;
+
+address {
+  font-style: normal;
 }
 section,
 header {
@@ -50,15 +50,15 @@ li {
 }
 
 .circle {
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 .address-icon {
-  width: 16px;
-  height: 16px;
-  background-color: cornflowerblue;
+  width: 32px;
+  height: 32px;
   margin-right: 10px;
-  padding: 8px;
+
+  padding: 2px;
   vertical-align: middle;
 }
 .hobbies {
